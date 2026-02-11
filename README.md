@@ -2,7 +2,7 @@ RBAC_MEDICAL_BOT
 
 A secure, role-based access control (RBAC) chatbot designed for healthcare platforms, powered by Retrieval-Augmented Generation (RAG) with FastAPI, MongoDB, Pinecone, and LangChain.
 
-![Thumbnail](./assets/thumbnail.png)
+
 
 ## 🧠 Overview
 
